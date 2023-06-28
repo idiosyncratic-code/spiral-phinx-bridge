@@ -1,5 +1,5 @@
 {
-  "name": "idiosyncrative/spiral-phinx-bridge",
+  "name": "idiosyncratic/spiral-phinx-bridge",
   "type": "library",
   "license": "EUPL-1.2",
   "description": "Spiral Bridge to add Phinx DB migrations",
