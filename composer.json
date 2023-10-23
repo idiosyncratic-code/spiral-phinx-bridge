@@ -9,7 +9,7 @@
   },
   "require": {
     "php": ">=8.2",
-    "robmorgan/phinx": "1.x-dev",
+    "robmorgan/phinx": "^0.15",
     "spiral/boot": "^3.7",
     "spiral/config": "^3.7",
     "spiral/console": "^3.7"
